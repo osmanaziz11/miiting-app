@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>901145844425-nud9op50c1dbobpi6795i50an36d3a40.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.901145844425-nud9op50c1dbobpi6795i50an36d3a40</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDM3du3mWY1RJ2hWGj_Y09qTTdPI1n6_Yc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>901145844425</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>fr.miiting.app</string>
+	<key>PROJECT_ID</key>
+	<string>vigilant-method-230112</string>
+	<key>STORAGE_BUCKET</key>
+	<string>vigilant-method-230112.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:901145844425:ios:b2acc3906f26bc51</string>
+	<key>DATABASE_URL</key>
+	<string>https://vigilant-method-230112.firebaseio.com</string>
+</dict>
+</plist>

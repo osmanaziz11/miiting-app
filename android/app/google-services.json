@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "901145844425",
+    "firebase_url": "https://vigilant-method-230112.firebaseio.com",
+    "project_id": "vigilant-method-230112",
+    "storage_bucket": "vigilant-method-230112.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901145844425:android:b2acc3906f26bc51",
+        "android_client_info": {
+          "package_name": "fr.miiting.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "901145844425-bms60vsfnqukqaidboajdts3dhf8oe75.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaoSVzxLYnhPP9FvfgA6ilVLIphZe47No"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
